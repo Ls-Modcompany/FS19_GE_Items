@@ -61,7 +61,7 @@ if node ~= 0 then
                 setUserAttribute(tg, "defaultFarmProperty", "Boolean", defaultFarmProperty);
             end;
             if farmId ~= nil then
-                setUserAttribute(tg, "farmId", "Integer", 100);
+                setUserAttribute(tg, "farmId", "Integer", farmId);
             end;
 
             i = i + 1;
