@@ -1,0 +1,636 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?>
+<i3D name="untitled" version="1.6" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://i3d.giants.ch/schema/i3d-1.6.xsd">
+    <Asset>
+        <Export program="GIANTS Editor 64bit" version="8.1.0"/>
+    </Asset>
+    <Files/>
+    <Materials/>
+    <Shapes/>
+    <Dynamics/>
+    <Scene>
+        <TransformGroup name="ItemsScript" nodeId="7902">
+            <TransformGroup name="Template" nodeId="7903">
+                <TransformGroup name="Giants" nodeId="7904">
+                    <TransformGroup name="animalHusbandry" nodeId="7905">
+                        <TransformGroup name="husbandryChicken" nodeId="7906"/>
+                        <TransformGroup name="husbandryChickenLarge" nodeId="7907"/>
+                        <TransformGroup name="husbandryCow" nodeId="7908"/>
+                        <TransformGroup name="husbandryCowLarge" nodeId="7909"/>
+                        <TransformGroup name="husbandryHorse" nodeId="7910"/>
+                        <TransformGroup name="husbandryHorseLarge" nodeId="7911"/>
+                        <TransformGroup name="husbandryPig" nodeId="7912"/>
+                        <TransformGroup name="husbandryPigLarge" nodeId="7913"/>
+                        <TransformGroup name="husbandrySheep" nodeId="7914"/>
+                        <TransformGroup name="husbandrySheepLarge" nodeId="7915"/>
+                    </TransformGroup>
+                    <TransformGroup name="bunkerSilo" nodeId="7916">
+                        <TransformGroup name="bunkerSiloLarge" nodeId="7917"/>
+                        <TransformGroup name="bunkerSiloLargeDouble" nodeId="7918"/>
+                        <TransformGroup name="bunkerSiloMedium" nodeId="7919"/>
+                        <TransformGroup name="bunkerSiloMediumDouble" nodeId="7920"/>
+                        <TransformGroup name="bunkerSiloSmall" nodeId="7921"/>
+                        <TransformGroup name="bunkerSiloSmallDouble" nodeId="7922"/>
+                    </TransformGroup>
+                    <TransformGroup name="doghouse" nodeId="7923">
+                        <TransformGroup name="doghouse" nodeId="7924"/>
+                    </TransformGroup>
+                    <TransformGroup name="farmSilos" nodeId="7925">
+                        <TransformGroup name="farmSiloLarge" nodeId="7926"/>
+                        <TransformGroup name="farmSiloSmall" nodeId="7927"/>
+                        <TransformGroup name="siloExtension" nodeId="7928"/>
+                    </TransformGroup>
+                    <TransformGroup name="hayLoft" nodeId="24028">
+                        <TransformGroup name="hayLoft" nodeId="24029"/>
+                    </TransformGroup>
+                    <TransformGroup name="highPressureWasher" nodeId="24030">
+                        <TransformGroup name="kaercher" nodeId="24031"/>
+                    </TransformGroup>
+                    <TransformGroup name="limeStation" nodeId="24032">
+                        <TransformGroup name="limeStation" nodeId="24033"/>
+                        <TransformGroup name="limeStation02" nodeId="24034"/>
+                        <TransformGroup name="limeStation03" nodeId="24035"/>
+                    </TransformGroup>
+                    <TransformGroup name="sandCastle" nodeId="24046">
+                        <TransformGroup name="sandCastle" nodeId="24047"/>
+                    </TransformGroup>
+                    <TransformGroup name="waterTank" nodeId="24048">
+                        <TransformGroup name="waterTank" nodeId="24049"/>
+                    </TransformGroup>
+                    <TransformGroup name="woodCrusher" nodeId="24050">
+                        <TransformGroup name="jenz" nodeId="24051"/>
+                    </TransformGroup>
+                    <TransformGroup name="workshop" nodeId="24052">
+                        <TransformGroup name="workshop" nodeId="24053"/>
+                    </TransformGroup>
+                </TransformGroup>
+                <TransformGroup name="LSMC" nodeId="7929">
+                    <TransformGroup name="Hofpack" nodeId="24329">
+                        <TransformGroup name="Building01" nodeId="24330"/>
+                        <TransformGroup name="Building02" nodeId="24335"/>
+                        <TransformGroup name="Building03" nodeId="24336"/>
+                        <TransformGroup name="Building04" nodeId="24337"/>
+                        <TransformGroup name="Building05" nodeId="24338"/>
+                        <TransformGroup name="Building06" nodeId="24339"/>
+                        <TransformGroup name="Building07" nodeId="24340"/>
+                        <TransformGroup name="Duengerlager" nodeId="24341"/>
+                        <TransformGroup name="Fahrsilo01" nodeId="24342"/>
+                        <TransformGroup name="Fahrsilo02" nodeId="24343"/>
+                        <TransformGroup name="Fahrsilo03" nodeId="24344"/>
+                        <TransformGroup name="Fahrsilo04" nodeId="24345"/>
+                        <TransformGroup name="Fahrsilo05" nodeId="24346"/>
+                        <TransformGroup name="Fahrsilo06" nodeId="24347"/>
+                        <TransformGroup name="Getreidesilo" nodeId="24348"/>
+                        <TransformGroup name="Halle01" nodeId="24349"/>
+                        <TransformGroup name="Halle02" nodeId="24350"/>
+                        <TransformGroup name="Saatgutlager" nodeId="24351"/>
+                        <TransformGroup name="Schuettgutlager01" nodeId="24352"/>
+                        <TransformGroup name="Schuettgutlager02" nodeId="24353"/>
+                        <TransformGroup name="Schuettgutlager03" nodeId="24354"/>
+                        <TransformGroup name="Schuettgutlager04" nodeId="24355"/>
+                        <TransformGroup name="Unterstand01" nodeId="24357"/>
+                        <TransformGroup name="Unterstand02" nodeId="24358"/>
+                        <TransformGroup name="Unterstand03" nodeId="24359"/>
+                        <TransformGroup name="Unterstand04" nodeId="24360"/>
+                        <TransformGroup name="Unterstand05" nodeId="24361"/>
+                        <TransformGroup name="Werkstatt01" nodeId="24362"/>
+                        <TransformGroup name="Werkstatt02" nodeId="24363"/>
+                        <TransformGroup name="Werkstatt03" nodeId="24364"/>
+                    </TransformGroup>
+                    <TransformGroup name="Horsebox" nodeId="24366">
+                        <TransformGroup name="Building01" nodeId="24367"/>
+                    </TransformGroup>
+                    <TransformGroup name="TimberframeHouse01" nodeId="24397">
+                        <TransformGroup name="TimberframeHouse01" nodeId="24398"/>
+                        <TransformGroup name="TimberframeHouse01Deco" nodeId="24399"/>
+                    </TransformGroup>
+                    <TransformGroup name="TimberframeHouse02" nodeId="24400">
+                        <TransformGroup name="TimberframeHouse02" nodeId="24401"/>
+                        <TransformGroup name="TimberframeHouse02Deco" nodeId="24402"/>
+                    </TransformGroup>
+                    <TransformGroup name="TimberframeBarn01" nodeId="24403">
+                        <TransformGroup name="TimberframeBarn01" nodeId="24404"/>
+                        <TransformGroup name="TimberframeBarn01noRamp" nodeId="24405"/>
+                    </TransformGroup>
+                </TransformGroup>
+                <TransformGroup name="VD" nodeId="7930">
+                    <TransformGroup name="CompositeHallPack" nodeId="24054">
+                        <TransformGroup name="Hall3" nodeId="24055"/>
+                        <TransformGroup name="Hall4" nodeId="24056"/>
+                        <TransformGroup name="Hall5" nodeId="24057"/>
+                        <TransformGroup name="Hall6" nodeId="24058"/>
+                    </TransformGroup>
+                    <TransformGroup name="FuelstationEcoPro" nodeId="24251">
+                        <TransformGroup name="FuelstationEcoPro" nodeId="24252"/>
+                    </TransformGroup>
+                    <TransformGroup name="GrainStorages" nodeId="24256">
+                        <TransformGroup name="StorageMetal" nodeId="24257"/>
+                        <TransformGroup name="StorageWood" nodeId="24261"/>
+                    </TransformGroup>
+                    <TransformGroup name="MashineryShed" nodeId="24325">
+                        <TransformGroup name="Shead" nodeId="24326"/>
+                        <TransformGroup name="SheadOpen" nodeId="24328"/>
+                    </TransformGroup>
+                </TransformGroup>
+            </TransformGroup>
+            <TransformGroup name="Items" nodeId="7931"/>
+        </TransformGroup>
+    </Scene>
+    <UserAttributes>
+        <UserAttribute nodeId="7906">
+            <Attribute name="className" type="string" value="AnimalHusbandry"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/animalHusbandry/husbandryChicken.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7907">
+            <Attribute name="className" type="string" value="AnimalHusbandry"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/animalHusbandry/husbandryChickenLarge.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7908">
+            <Attribute name="className" type="string" value="AnimalHusbandry"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/animalHusbandry/husbandryCow.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7909">
+            <Attribute name="className" type="string" value="AnimalHusbandry"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/animalHusbandry/husbandryCowLarge.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7910">
+            <Attribute name="className" type="string" value="AnimalHusbandry"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/animalHusbandry/husbandryHorse.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7911">
+            <Attribute name="className" type="string" value="AnimalHusbandry"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/animalHusbandry/husbandryHorseLarge.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7912">
+            <Attribute name="className" type="string" value="AnimalHusbandry"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/animalHusbandry/husbandryPig.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7913">
+            <Attribute name="className" type="string" value="AnimalHusbandry"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/animalHusbandry/husbandryPigLarge.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7914">
+            <Attribute name="className" type="string" value="AnimalHusbandry"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/animalHusbandry/husbandrySheep.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7915">
+            <Attribute name="className" type="string" value="AnimalHusbandry"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/animalHusbandry/husbandrySheepLarge.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7917">
+            <Attribute name="className" type="string" value="BunkerSiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/bunkerSilo/bunkerSiloLarge.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7918">
+            <Attribute name="className" type="string" value="BunkerSiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/bunkerSilo/bunkerSiloLargeDouble.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7919">
+            <Attribute name="className" type="string" value="BunkerSiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/bunkerSilo/bunkerSiloMedium.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7920">
+            <Attribute name="className" type="string" value="BunkerSiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/bunkerSilo/bunkerSiloMediumDouble.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7921">
+            <Attribute name="className" type="string" value="BunkerSiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/bunkerSilo/bunkerSiloSmall.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7922">
+            <Attribute name="className" type="string" value="BunkerSiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/bunkerSilo/bunkerSiloSmallDouble.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7924">
+            <Attribute name="className" type="string" value="Doghouse"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/doghouse/doghouse.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7926">
+            <Attribute name="className" type="string" value="SiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/farmSilos/farmSiloLarge.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7927">
+            <Attribute name="className" type="string" value="SiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/farmSilos/farmSiloSmall.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="7928">
+            <Attribute name="className" type="string" value="SiloExtensionPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/farmSilos/siloExtension.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24029">
+            <Attribute name="className" type="string" value="SiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/hayLoft/hayLoft.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24031">
+            <Attribute name="className" type="string" value="SiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/highPressureWasher/kaercher/kaercherHDS918-4M.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24033">
+            <Attribute name="className" type="string" value="BuyingStationPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/limeStation/limeStation.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24034">
+            <Attribute name="className" type="string" value="BuyingStationPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/limeStation/limeStation02.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24035">
+            <Attribute name="className" type="string" value="BuyingStationPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/limeStation/limeStation03.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24047">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/sandCastle/sandCastle.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24049">
+            <Attribute name="className" type="string" value="BuyingStationPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/waterTank/waterTank.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24051">
+            <Attribute name="className" type="string" value="WoodCrusherPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/woodCrusher/jenz/jenzHE700.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24053">
+            <Attribute name="className" type="string" value="Workshop"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="xmlFilename" type="string" value="data/placeables/workshop/workshop.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24330">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="building01.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24335">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="building02.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24336">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="building03.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24337">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="building04.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24338">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="building05.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24339">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="building06.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24340">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="building07.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24341">
+            <Attribute name="className" type="string" value="SiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="duengerlager.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24342">
+            <Attribute name="className" type="string" value="BunkerSiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="fahrsilo01.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24343">
+            <Attribute name="className" type="string" value="BunkerSiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="fahrsilo02.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24344">
+            <Attribute name="className" type="string" value="BunkerSiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="fahrsilo03.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24345">
+            <Attribute name="className" type="string" value="BunkerSiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="fahrsilo04.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24346">
+            <Attribute name="className" type="string" value="BunkerSiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="fahrsilo05.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24347">
+            <Attribute name="className" type="string" value="BunkerSiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="fahrsilo06.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24348">
+            <Attribute name="className" type="string" value="SiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="getreidesilo.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24349">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="halle01.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24350">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="halle02.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24351">
+            <Attribute name="className" type="string" value="SiloPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="saatgutlager.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24352">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="schuettguthalle01.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24353">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="schuettguthalle02.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24354">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="schuettguthalle03.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24355">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="schuettguthalle04.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24357">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="unterstand01.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24358">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="unterstand02.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24359">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="unterstand03.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24360">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="unterstand04.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24361">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="unterstand05.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24362">
+            <Attribute name="className" type="string" value="Workshop"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="werkstatt01.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24363">
+            <Attribute name="className" type="string" value="Workshop"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="werkstatt02.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24364">
+            <Attribute name="className" type="string" value="Workshop"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_Hofpack"/>
+            <Attribute name="xmlFilename" type="string" value="werkstatt03.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24367">
+            <Attribute name="className" type="string" value="AnimalHusbandry"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_horsebox"/>
+            <Attribute name="xmlFilename" type="string" value="horsebox.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24398">
+            <Attribute name="className" type="string" value="FarmhousePlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_TimberframeHouse01"/>
+            <Attribute name="xmlFilename" type="string" value="timberFrame01.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24399">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_TimberframeHouse01"/>
+            <Attribute name="xmlFilename" type="string" value="timberFrame01_decoration.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24401">
+            <Attribute name="className" type="string" value="FarmhousePlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_TimberframeHouse02"/>
+            <Attribute name="xmlFilename" type="string" value="timberFrame02.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24402">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_TimberframeHouse02"/>
+            <Attribute name="xmlFilename" type="string" value="timberFrame02_decoration.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24404">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_TimberframeBarn01"/>
+            <Attribute name="xmlFilename" type="string" value="timberFrameBarn01.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24405">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_TimberframeBarn01"/>
+            <Attribute name="xmlFilename" type="string" value="timberFrameBarn01_noRamp.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24055">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_compositeHallPack"/>
+            <Attribute name="xmlFilename" type="string" value="compositeHall3.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24056">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_compositeHallPack"/>
+            <Attribute name="xmlFilename" type="string" value="compositeHall4.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24057">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_compositeHallPack"/>
+            <Attribute name="xmlFilename" type="string" value="compositeHall5.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24058">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_compositeHallPack"/>
+            <Attribute name="xmlFilename" type="string" value="compositeHall6.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24252">
+            <Attribute name="className" type="string" value="BuyingStationPlaceable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_fuelstationEcoPro"/>
+            <Attribute name="xmlFilename" type="string" value="fuelstation.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24257">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_grainStorages"/>
+            <Attribute name="xmlFilename" type="string" value="grainStorage_metal.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24261">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_grainStorages"/>
+            <Attribute name="xmlFilename" type="string" value="grainStorage_wood.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24326">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_mashineryShed"/>
+            <Attribute name="xmlFilename" type="string" value="mashineryShed.xml"/>
+        </UserAttribute>
+        <UserAttribute nodeId="24328">
+            <Attribute name="className" type="string" value="Placeable"/>
+            <Attribute name="defaultFarmProperty" type="boolean" value="false"/>
+            <Attribute name="farmId" type="integer" value="0"/>
+            <Attribute name="modName" type="string" value="FS19_mashineryShed"/>
+            <Attribute name="xmlFilename" type="string" value="mashineryShedOpen.xml"/>
+        </UserAttribute>
+    </UserAttributes>
+</i3D>
