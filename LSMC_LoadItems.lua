@@ -20,7 +20,8 @@ if node ~= 0 then
                     path = string.format("%s%s/",modPath, modName);
                 end;
                 local xmlFile = loadXMLFile("placeable", path .. xmlFilename);	
-                local objectNode = loadI3DFile(path .. getXMLString(xmlFile, "placeable.filename"));
+                local i3dPath = getXMLString(xmlFile, "placeable.filename"):gsub("$data", "data");
+                local objectNode = loadI3DFile(path .. i3dPath);
                 link(child, objectNode);
                 delete(xmlFile);
             end;
