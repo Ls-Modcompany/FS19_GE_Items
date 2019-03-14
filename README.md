@@ -74,5 +74,9 @@ Select the Main-Tg and run the script. It will now import all items from the ite
 
 This script add default userattributes. Select the Item-Tg and execute the script. After executing, you can set your own content.
 
+## Tipps
+
+You can download the full package, so then you have all files what you need!
+
 ## Bugs
 The script for import items don't import the farmId! Giants have a bug, so I can't set the farmId to the userattribute.
