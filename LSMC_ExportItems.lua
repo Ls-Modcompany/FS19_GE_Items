@@ -48,7 +48,7 @@ if node ~= 0 then
                         local x,y,z = getWorldTranslation(child);
                         local rx,ry,rz = getRotation(child);         
                         local pos = string.format("%s %s %s",x,y,z);
-                        local rot = string.format("%s %s %s",rx,ry,rz);  
+                        local rot = string.format("%s %s %s",math.deg(rx),math.deg(ry),math.deg(rz));  
                         
                         setXMLString(xmlFile, xmlKey .. "#mapBoundId", mapBoundId);
                         setXMLString(xmlFile, xmlKey .. "#className", className);
@@ -57,7 +57,6 @@ if node ~= 0 then
                         if modName ~= nil or modName == "" then
                             setXMLString(xmlFile, xmlKey .. "#modName", modName);
                             addPath = string.format("$moddir$%s/", modName);
-                            print(addPath)
                         end;
 
                         setXMLString(xmlFile, xmlKey .. "#filename", addPath .. xmlFilename);
