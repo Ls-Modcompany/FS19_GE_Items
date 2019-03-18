@@ -17,7 +17,7 @@ The scripts can you use in the giants editor.
 
 5) Open the scripts in the Scripteditor. You must change the paths for your system:
 
-  - Delete Items:
+  - Export Items:
   
   ```
 local installPath = "C:/Program Files (x86)/Farming Simulator 2019/"
